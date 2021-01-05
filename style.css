@@ -1,0 +1,62 @@
+        #hello{
+            text-align: center;
+        }
+        .test{
+            color: rgba(248, 0, 0, 0.986);
+
+            
+        }
+    
+
+    
+    .up1{
+        border: 10px solid blue;
+        border-radius: 20px;
+        margin: 10px 20px 10px 20px;
+        width: 45%;
+        float: left;
+        
+        
+    }
+    #uphcolor1{
+        color: red;
+        padding: 10px 20px 10px 20px;
+        text-align: center;
+        
+        
+        
+    }
+    #uppcolor1{
+        color: blue;
+        padding: 10px 20px 10px 20px;
+        text-align: justify;
+    }
+
+
+
+
+.up2{
+    border: 10px solid blue;
+    border-radius: 20px;
+    margin: 10px 20px 10px 20px;
+    width: 45%;
+    float: right;
+}
+#uphcolor2{
+    color: rgb(177, 196, 13);
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+}
+#uppcolor2{
+    color: rgb(255, 94, 0);
+    padding: 10px 20px 10px 20px;
+    text-align: justify;
+}
+
+#upimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
